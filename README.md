@@ -9,4 +9,3 @@ Projects I'm working on:
 - An OS (based on skiftOS)
 
 <a href="https://octoprofile.now.sh/user?id=pixl-8"><img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=pixl-8&show_icons=true"></a>
-###### Please follow me, I need friends.
